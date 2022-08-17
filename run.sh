@@ -1,5 +1,5 @@
 # write the answer to a source file
-echo "#!/usr/bin/env Rscript\n\n $answer" > ./src/script.r
+echo "#!/usr/bin/env Rscript\n\n $answer" > ./script.r
 
 # turn the script into an executable
 chmod +x script.r
