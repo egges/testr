@@ -1,5 +1,4 @@
 [properties]
-klaas = 3
-piet = 2
 henk = 1
-test = "\"24\""
+piet = 2
+klaas = 3
