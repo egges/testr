@@ -1,4 +1,5 @@
 [properties]
-henk = 1
+test2 = "\"true\""
 piet = 2
+henk = 1
 klaas = 3
