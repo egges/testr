@@ -1,5 +1,5 @@
 [properties]
-piet = 2
-henk = 1
 klaas = 3
-status = "in review"
+henk = 1
+piet = 2
+status = "Under review"
